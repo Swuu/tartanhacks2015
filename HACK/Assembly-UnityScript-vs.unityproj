@@ -47,7 +47,6 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\CameraControl.js" />
-     <Compile Include="Assets\CubeJump.js" />
      <Compile Include="Assets\PlayerControl.js" />
      <Compile Include="Assets\Spline Controller\MathUtils.js" />
      <Compile Include="Assets\Spline Controller\SplineController.js" />
