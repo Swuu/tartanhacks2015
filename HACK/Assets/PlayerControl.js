@@ -2,7 +2,7 @@
 
 var moveSpeed = 3;
 var rotationSpeed = 250;
-var jumpHeight = 8;
+//var jumpHeight = 8;
 
 function Update ()
 {
