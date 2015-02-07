@@ -1,8 +1,13 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Temp/Compiled-Unlit-Normal-.shader">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerJumpSlide.js">
     <Files>
-      <File FileName="Temp/Compiled-Unlit-Normal-.shader" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DirectionalLight01Control.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LightingControl.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraControl.js" Line="8" Column="80" />
+      <File FileName="Assets\Scripts\PlayerControl.js" Line="10" Column="39" />
+      <File FileName="Assets\Scripts\EffectControl.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerJumpSlide.js" Line="50" Column="110" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
